@@ -4,7 +4,7 @@
 
 An open standard for publishing and cryptographically proving the **legal terms** behind a transaction — across every major agent-payment protocol (x402, MPP, AP2, ACK) and settlement rail (EVM, Stellar, Hedera, Solana, and more).
 
-🌐 [legalcontextprotocol.org](https://legalcontextprotocol.org) · 📄 [White paper](https://www.legalcontextprotocol.org/white-paper.pdf) · 📐 [Specification](https://github.com/legal-context-protocol/legal-context-protocol)
+🌐 [legalcontextprotocol.org](https://legalcontextprotocol.org) · 📄 [White papers](https://legalcontextprotocol.org/papers) · 📐 [Specification](https://github.com/legal-context-protocol/legal-context-protocol)
 
 ---
 
@@ -48,7 +48,7 @@ This is the **first public introduction** of the Legal Context Protocol. We are 
 LCP is built to be **co-stewarded**. We expect — and warmly invite — **companies and foundations to take ownership of specific implementations and adapters.** A protocol steward such as the **x402 Foundation**, for example, is a natural long-term owner of the x402 adapter; rail and protocol partners (payment networks, blockchains, standards bodies) are likewise invited to own and maintain their corresponding packages. Per-package ownership is wired through the implementation repo's `CODEOWNERS`.
 
 **Get involved:**
-- Read the [specification](https://github.com/legal-context-protocol/legal-context-protocol) and the [white paper](https://www.legalcontextprotocol.org/white-paper.pdf).
+- Read the [specification](https://github.com/legal-context-protocol/legal-context-protocol) and the [white papers](https://legalcontextprotocol.org/papers).
 - Propose changes via the SEP process (see the spec repo's `GOVERNANCE.md`).
 - Build — or take ownership of — an adapter or implementation.
 
