@@ -30,7 +30,7 @@ The Legal Context Protocol is **co-stewarded by [Integra Ledger](https://integra
 - **David Fisher** — CEO, Integra Ledger — lead author and driving force behind LCP.
 - **Bridget McCormack** — CEO, American Arbitration Association — co-led the initiative with David Fisher: co-author of the white paper *"Identity, Trust, and the Legal Foundations of Agentic Commerce"* and a driving force behind the overall plan.
 
-The **LCP technical specification** is co-authored by **David Fisher** and **David Berger** (Chief Science Officer, Integra Ledger).
+The **LCP technical specification** is co-authored by **David Fisher** and **David Berger** (Chief Scientist, Integra Ledger).
 
 ---
 
