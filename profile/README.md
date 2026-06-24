@@ -1,10 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legal-context-protocol/.github/main/assets/lcp-logo-dark.png">
-    <img src="https://raw.githubusercontent.com/legal-context-protocol/.github/main/assets/lcp-logo-light.png" alt="Legal Context Protocol" width="120">
-  </picture>
-</p>
-
 # Legal Context Protocol (LCP)
 
 **The missing legal layer for AI-agent commerce.**
